@@ -9,9 +9,12 @@ På sidan ska du presentera en lista med två nivåer. I första nivån så ska 
 Sverige  
 - Göteborg   
 - Stockholm 
+
 Norge  
 - Oslo 
+
 Finland  
 - Helsinki  
 - Kemi    
+
 Osv.
